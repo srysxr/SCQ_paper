@@ -1,9 +1,5 @@
 # SCQ_paper
 This repository contains the **code and resources** for Structure-Adaptive Conformal Inference for Large-Scale Out-of-Distribution Testing. It includes simulation experiments, real-data analyses, and supplementary simulations.
-## Datasets
-You can download the datasets used in this project from the following links:
-- **CICIDS dataset**: available [here](https://www.unb.ca/cic/datasets/ids-2017.html).
-- **PageBlocks dataset**: available [here](https://archive.ics.uci.edu/dataset/78/page+blocks+classification).
 ## Folders
 
 - `/simu`
@@ -19,5 +15,8 @@ You can download the datasets used in this project from the following links:
   - `/simu_sup/comp_w_naive_ams`: Comparison of P-TAMS with naive AMS method (Appendix D.2)
   - `/simu_sup/comp_w_icp_ams`: Comparison of P-TAMS with ICP-AMS method (Appendix D.3)
   - `/simu_sup/fdr_adaptive_attainment`: The adaptivity in achieving the nominal FDR level (Appendix D.4)
-
+## Datasets
+You can download the datasets used in this project from the following links:
+- **CICIDS dataset**: available [here](https://www.unb.ca/cic/datasets/ids-2017.html).
+- **PageBlocks dataset**: available [here](https://archive.ics.uci.edu/dataset/78/page+blocks+classification).
 
