@@ -13,7 +13,7 @@ This repository contains the **code and resources** for Structure-Adaptive Confo
 
 - `/simu_sup`
   - `/simu_sup/comp_w_naive_ams`: Comparison of P-TAMS with naive AMS method (Appendix D.2)
-  - `icp_ams`, `/simu_sup/comp_w_icp_ams`: Comparison of P-TAMS with ICP-AMS method (Appendix D.3)
+  - `/simu_sup/icp_ams`, `/simu_sup/comp_w_icp_ams`: Comparison of P-TAMS with ICP-AMS method (Appendix D.3)
   - `/simu_sup/fdr_adaptive_attainment`: The adaptivity in achieving the nominal FDR level (Appendix D.4)
 ## Datasets
 You can download the datasets used in this project from the following links:
